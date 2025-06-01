@@ -1,0 +1,10 @@
+{
+  "name": "bleverse",
+  "author": "blefnk",
+  "version": "1.0.0",
+  "description": "https://bleverse.com",
+  "files": ["README.md", "package.json", "index.js"],
+  "exports": { ".": "./index.js" },
+  "module": "index.js",
+  "type": "module"
+}

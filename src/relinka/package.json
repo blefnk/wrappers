@@ -1,0 +1,10 @@
+{
+  "name": "relinka",
+  "author": "blefnk",
+  "version": "1.0.0",
+  "description": "Please install and use '@reliverse/relinka' instead of 'relinka'",
+  "files": ["README.md", "package.json", "index.js"],
+  "exports": { ".": "./index.js" },
+  "module": "index.js",
+  "type": "module"
+}

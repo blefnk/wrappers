@@ -1,0 +1,10 @@
+{
+  "name": "blefnk",
+  "author": "blefnk",
+  "version": "1.0.1",
+  "description": "https://blefnk.reliverse.org",
+  "files": ["README.md", "package.json", "index.js"],
+  "exports": { ".": "./index.js" },
+  "module": "index.js",
+  "type": "module"
+}

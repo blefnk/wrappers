@@ -1,0 +1,10 @@
+{
+  "name": "blefonix",
+  "author": "blefnk",
+  "version": "1.0.0",
+  "description": "https://blefonix.com",
+  "files": ["README.md", "package.json", "index.js"],
+  "exports": { ".": "./index.js" },
+  "module": "index.js",
+  "type": "module"
+}

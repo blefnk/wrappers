@@ -1,0 +1,10 @@
+{
+  "name": "versator",
+  "author": "blefnk",
+  "version": "1.0.1",
+  "description": "'versator' is a Next.js template, please visit https://github.com/blefnk/versator to learn how to install it correctly",
+  "files": ["README.md", "package.json", "index.js"],
+  "exports": { ".": "./index.js" },
+  "module": "index.js",
+  "type": "module"
+}
